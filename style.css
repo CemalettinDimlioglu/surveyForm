@@ -18,9 +18,11 @@ body{
      color: white
 }
 #container{
-     background-color: rgba(0,0,0,0.8);
+     background-color: rgba(0,0,0,0.5);
      margin: auto;
      height: 1036px;
+     max-width: 1240px;
+     margin-top: 30px;
 }
 span{
 
@@ -29,7 +31,7 @@ span{
 header{
      text-align: center;
 }
-h1{
+header h1{
 
      font-size: 4rem;
 }
