@@ -15,7 +15,12 @@ body{
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
-     color: blue
+     color: white
+}
+#container{
+     background-color: rgba(0,0,0,0.8);
+     margin: auto;
+     height: 1036px;
 }
 span{
 
@@ -26,7 +31,7 @@ header{
 }
 h1{
 
-     font-size: 400;
+     font-size: 4rem;
 }
 
 
